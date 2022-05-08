@@ -1,0 +1,15 @@
+\ttl@change@i {\@ne }{chapter}{2em}{\vspace {.0\baselineskip }\sihao \song }{\prechaptername ~\thecontentslabel ~\postchaptername \quad }{}{\!\titlerule *[5pt]{$\cdot $}\!\!\!\!\sihao \contentspage }\relax 
+\ttl@change@v {chapter}{}{}{}\relax 
+\ttl@change@i {\@ne }{section}{3em}{\vspace {-0.1\baselineskip }\xiaosi \song }{\thecontentslabel \quad }{}{\!\titlerule *[5pt]{$\cdot $}\!\!\!\!\xiaosi \contentspage }\relax 
+\ttl@change@v {section}{}{}{}\relax 
+\ttl@change@i {\@ne }{subsection}{4em}{\vspace {-0.2\baselineskip }\wuhao \song }{\thecontentslabel \quad }{}{\!\titlerule *[5pt]{$\cdot $}\!\!\!\!\wuhao \contentspage }\relax 
+\ttl@change@v {subsection}{}{}{}\relax 
+\contentsline {chapter}{\numberline {1}引言}{1}{section*.6}%
+\contentsline {section}{\numberline {1.1}研究背景}{1}{section*.7}%
+\contentsline {chapter}{\numberline {2}国内外研究现状}{2}{section*.8}%
+\contentsline {section}{\numberline {2.1}相关问题综述}{2}{section*.9}%
+\contentsline {chapter}{\numberline {3}第一章}{3}{section*.10}%
+\contentsline {section}{\numberline {3.1}问题描述}{3}{section*.11}%
+\contentsline {chapter}{\numberline {4}第二章}{4}{section*.12}%
+\contentsline {section}{\numberline {4.1}问题描述}{4}{section*.13}%
+\contentsfinish 
